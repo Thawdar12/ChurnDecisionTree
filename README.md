@@ -2,6 +2,9 @@
 
 This project involves two tasks related to predicting customer churn using the **Customer Churn Dataset**.
 
+Customer Churn Dataset
+https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset
+
 ## Tasks Overview
 
 ### Task 1: Data Preprocessing and Feature Engineering
